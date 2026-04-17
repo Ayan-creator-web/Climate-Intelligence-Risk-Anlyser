@@ -1,0 +1,26 @@
+======================================================================
+   CLIMATE INTELLIGENCE & RISK ANALYZER — AUTO INSIGHTS
+======================================================================
+
+★  KEY FINDINGS
+
+  1. 🔥  North America is the fastest-warming region, with a trend of +0.19°C per decade.
+  2. 📈  The highest single-month temperature anomaly occurred in Western Europe during Sep 2023 (+2.69°C above baseline).
+  3. 🔴  South Asia carries the highest climate risk score (82/100) — driven by high rainfall volatility.
+
+----------------------------------------------------------------------
+
+📋  ALL INSIGHTS
+
+  • 🌡️  Global average temperature has risen by 1.18°C from the 1950s to the 2020s.
+  • 🔥  North America is the fastest-warming region, with a trend of +0.19°C per decade.
+  • 📈  The highest single-month temperature anomaly occurred in Western Europe during Sep 2023 (+2.69°C above baseline).
+  • 🌧️  South Asia has the highest rainfall variability (CV = 0.48), indicating unpredictable precipitation patterns.
+  • ⚠️  1,511 extreme climate events detected across all regions (21.3% of all monthly records).
+  • 📊  Extreme events are increasing — the annual count has grown from ~20 in earlier decades to ~24 recently.
+  • 🏭  Atmospheric CO₂ has increased from 305 ppm to 404 ppm (+99 ppm over the study period).
+  • 🌊  Sea levels are currently approximately 110 mm above the 1950 baseline.
+  • 🔴  South Asia carries the highest climate risk score (82/100) — driven by high rainfall volatility.
+  • 🟢  East Asia has the lowest climate risk score (19/100).
+  • ☀️  Summer temperatures have shifted by +1.11°C on average since the 1950s, suggesting measurable seasonal intensification.
+  • ℹ️  Note: Recent data may be preliminary. Forecasts shown in the dashboard are illustrative trend extrapolations and are not equivalent to official climate model projections.
