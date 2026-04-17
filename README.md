@@ -343,9 +343,9 @@ Sample findings from the auto-insights engine:
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Ayan-Creator-Web](https://github.com/Ayan-Creator-Web)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayan-mukherjee-16a9a028a/)
+- Email: ayanmukherji223@gmail.com
 
 ---
 
